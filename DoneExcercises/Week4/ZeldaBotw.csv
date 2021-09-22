@@ -1,0 +1,576 @@
+,Name,Role
+0,Baddek,Ally
+1,Bamboo,Ally
+2,Banji,Ally
+3,Baumar,Ally
+4,Bayge,Ally
+5,Beedle,Ally
+6,Bolson,Ally
+7,Brigo,Ally
+8,Cambo,Ally
+9,Chabi,Ally
+10,Chork,Ally
+11,Chumin,Ally
+12,Dabi,Ally
+13,Daruk,Ally
+14,Dauntless,Ally
+15,Dinraal,Animal
+16,Ena,Ally
+17,Endai,Ally
+18,Epona,Animal
+19,Farosh,Animal
+20,Fyson,Ally
+21,Goflam,Ally
+22,Greyson,Ally
+23,Heehl,Ally
+24,Hestu,Ally
+25,Hudson,Ally
+27,Kabetta,Ally
+28,Kanny,Ally
+29,Kapson,Ally
+30,Karson,Ally
+31,Kass,Ally
+32,Kenyo,Ally
+33,Kilton,Ally
+34,Leekah,Ally
+35,Link,Ally
+36,Meeshy,Ally
+37,Meghyn,Ally
+38,Mei,Ally
+39,Mils,Ally
+40,Mina,Ally
+41,Mipha,Ally
+42,Misko,Ally
+43,Nat,Ally
+44,Naydra,Animal
+45,Nazbi,Ally
+46,Pelison,Ally
+47,Pikango,Ally
+48,Regan,Ally
+49,Revali,Ally
+50,Rhondson,Ally
+51,Rik,Ally
+52,Ronn,Ally
+53,Savelle,Ally
+54,Sherfin,Ally
+55,Sho,Ally
+56,Sorelia,Ally
+57,Spoone,Ally
+58,Toren,Ally
+59,Totsuna,Ally
+60,Tye,Ally
+61,Urbosa,Ally
+62,Yammo,Ally
+63,Princess Zelda,Ally
+64,Zyle,Ally
+65,Laroba,Ally
+66,Naddon,Ally
+67,Pitar,Ally
+69,Dmitri,Ally
+70,Gleema,Ally
+71,Jana,Ally
+72,Kah Mael,Ally
+73,Kaifa,Ally
+74,Lonni,Ally
+75,Nell,Ally
+76,Rex,Ally
+77,Stamm,Ally
+78,Tenne,Ally
+79,Tutsuwa Nima,Ally
+80,Ze Kasho,Ally
+81,Granté,Ally
+82,Hagie,Ally
+83,Hunnie,Ally
+84,Moggs,Ally
+85,Monari,Ally
+86,Ruli,Ally
+87,Ritaag Zumo,Ally
+88,Aya,Ally
+90,Hoz,Ally
+91,Jerrin,Ally
+92,Katosa Aug,Ally
+93,Khini,Ally
+94,Nobo,Ally
+95,Robbie,Ally
+96,Rudi,Ally
+97,Zuna Kai,Ally
+98,Glendo,Ally
+99,King Rhoam,Ally
+100,Etsu Korima,Ally
+103,Old Man,Ally
+106,Rohta Chigah,Ally
+107,Ruvo Korbah,Ally
+108,Yowaka Ita,Ally
+109,Aliza,Ally
+110,Benny,Ally
+112,Botrick,Ally
+113,Calamity Ganon,Boss
+114,Canni,Ally
+115,Dah Kaso,Ally
+116,Dai,Ally
+117,Gotter,Ally
+118,Haite,Ally
+119,Katah Chuki,Ally
+121,Myti,Ally
+122,Namika Ozz,Ally
+123,Noya Neha,Ally
+124,Parcy,Ally
+126,Toffa,Ally
+127,Trott,Ally
+130,Branli,Ally
+131,Konba,Ally
+132,Mijah Rokee,Ally
+134,Shira Gomar,Ally
+136,Yunobo,Ally
+137,Ashe,Ally
+138,Axyl,Ally
+139,Bladon,Ally
+140,Bohrin,Ally
+141,Boldon,Ally
+142,Breen,Ally
+144,Dayto,Ally
+145,Dorill,Ally
+146,Douma,Ally
+147,Drak,Ally
+148,Dugby,Ally
+149,Fin,Ally
+150,Gaile,Ally
+151,Gonguron,Ally
+152,Gorae Torr,Ally
+153,Grapp,Ally
+154,Jengo,Ally
+155,Kairo,Ally
+156,Karsh,Ally
+158,Kima,Ally
+159,Kish,Ally
+160,Mayro,Ally
+162,Molo,Ally
+163,Offrak,Ally
+164,Ozunda,Ally
+166,Russ,Ally
+168,Shamae,Ally
+171,Zorona,Ally
+172,Aji,Ally
+173,Bargoh,Ally
+174,Bludo,Ally
+175,Fugo,Ally
+176,Krane,Ally
+177,Pyle,Ally
+178,Ramella,Ally
+179,Rogaro,Ally
+180,Rohan,Ally
+181,Slergo,Ally
+182,Tanko,Ally
+183,Tray,Ally
+184,Volcon,Ally
+185,Akrah,Ally
+186,Daag Chokah,Ally
+187,Garshon,Ally
+188,Ketoh Wawai,Ally
+189,Kuhn Sidajj,Ally
+190,Maag Halan,Ally
+191,Oaki,Ally
+192,Onya,Ally
+193,Sprinn,Ally
+194,Tasho,Ally
+195,Zooki,Ally
+196,Zumi,Ally
+197,Chio,Ally
+198,Damia,Ally
+199,Daz,Ally
+201,Kula,Ally
+202,Maca,Ally
+203,Natie,Ally
+204,Peeks,Ally
+205,Pepp,Ally
+207,Walton,Ally
+208,Blynne,Ally
+209,Jini,Ally
+210,Loone,Ally
+211,Malanya,Ally
+212,Padok,Ally
+213,Perosa,Ally
+214,Phanna,Ally
+215,Pumaag Nitae,Ally
+216,Roscoe,Ally
+217,Shae Katha,Ally
+218,Shoqa Tatone,Ally
+219,Straia,Ally
+220,Suzuna,Ally
+222,Barta,Ally
+223,Calisa,Ally
+224,Eighth Heroine,Ally
+225,Gartan,Ally
+226,Lukan,Ally
+228,Anche,Ally
+229,Benja,Ally
+232,Dila Maag,Ally
+233,Dillie,Ally
+236,Jora,Ally
+238,Keive Tala,Ally
+240,Konora,Ally
+241,Kyra,Ally
+242,Misae Suma,Ally
+243,Patricia,Animal
+244,Pokki,Ally
+245,Raqa Zunzo,Ally
+246,Riju,Ally
+247,Shabonne,Ally
+248,Strade,Ally
+249,Sudrey,Ally
+250,Takama Shiri,Ally
+251,Tali,Ally
+252,Tera,Ally
+253,Tho Kayu,Ally
+254,Ardin,Ally
+255,Ashai,Ally
+256,Aurie Taamu,Ally
+257,Babi,Ally
+258,Bertri,Ally
+259,Bozai,Ally
+260,Buliara,Ally
+261,Calyban,Ally
+262,Cara,Ally
+263,Dalia,Ally
+264,Danda,Ally
+265,Deltan,Ally
+266,Dina,Ally
+267,Dorrah,Ally
+268,Essa,Ally
+269,Estan,Ally
+270,Fegran,Ally
+271,Frelly,Ally
+272,Frita,Ally
+273,Furosa,Ally
+274,Greta,Ally
+275,Isha,Ally
+276,Jules,Ally
+277,Kalani,Ally
+278,Katta,Ally
+279,Kohm,Ally
+280,Kotta,Ally
+281,Laine,Ally
+282,Lashley,Ally
+283,Leena,Ally
+284,Liana,Ally
+285,Lorn,Ally
+286,Lyndae,Ally
+287,Makure,Ally
+288,Malena,Ally
+289,Marta,Ally
+290,Merina,Ally
+291,Muava,Ally
+292,Nali,Ally
+293,Nellie,Ally
+294,Olu,Ally
+295,Padda,Ally
+296,Pasha,Ally
+297,Pearle,Ally
+298,Ploka,Ally
+299,Pritana,Ally
+300,Pyra,Ally
+301,Reeza,Ally
+302,Rima,Ally
+303,Risa,Ally
+304,Romah,Ally
+305,Rotana,Ally
+306,Saula,Ally
+307,Smaude,Ally
+308,Spera,Ally
+309,Sumati,Ally
+310,Tauma,Ally
+311,Teake,Ally
+312,Traysi,Ally
+313,Yaido,Ally
+314,Emri,Ally
+315,Guy,Ally
+316,Kachoo,Ally
+317,Maike,Ally
+318,Nobiro,Ally
+319,Ripp,Ally
+320,Robsten,Ally
+321,Shaillu,Ally
+322,Vilia,Ally
+323,Canolo,Ally
+324,Flaxel,Ally
+327,Keeha Yoog,Ally
+328,Kema Kosassa,Ally
+329,Kihiro Moh,Ally
+331,Master Kohga,Boss
+332,Maypin,Ally
+333,Moza,Ally
+334,Oliff,Ally
+335,Palme,Ally
+336,Piaffe,Ally
+337,Pirou,Ally
+338,Sasa Kai,Ally
+339,Sesami,Ally
+341,Suma Sahma,Ally
+342,Falmark,Ally
+343,Teba,Ally
+344,Tulin,Ally
+345,Goma Asaagh,Ally
+346,Hia Miu,Ally
+347,Kiah Toza,Ally
+349,Mozo Shenno,Ally
+350,Noe Rajee,Ally
+351,Qaza Tokki,Ally
+353,Selmie,Ally
+356,To Quomo,Ally
+357,Danton,Ally
+358,Harlow,Ally
+359,Juannelle,Ally
+360,Monkton,Ally
+363,Varke,Ally
+364,Ariane,Ally
+366,Cree,Ally
+368,Galli,Ally
+369,Geggle,Ally
+370,Genli,Ally
+371,Gesane,Ally
+373,Kaysa,Ally
+374,Kheel,Ally
+375,Kotts,Ally
+376,Lanno Kooh,Ally
+377,Lester,Ally
+378,Modar,Ally
+379,Molli,Ally
+380,Notts,Ally
+381,Pondo,Ally
+382,Ponthos,Ally
+383,Rona Kachta,Ally
+387,Amali,Ally
+388,Bedoli,Ally
+389,Cecili,Ally
+390,Harth,Ally
+391,Huck,Ally
+392,Jogo,Ally
+393,Juney,Ally
+394,Kaneli,Ally
+395,Laissa,Ally
+396,Mazli,Ally
+397,Misa,Ally
+398,Nekk,Ally
+399,Saki,Ally
+400,Verla,Ally
+401,Gruve,Ally
+402,Ledo,Ally
+403,Tona,Ally
+404,Tottika,Ally
+405,Tula,Ally
+406,Eryck,Ally
+407,Dagah Keek,Ally
+410,Sidon,Ally
+411,Soh Kofi,Ally
+412,Torfeau,Ally
+413,Bazz,Ally
+414,Cleff,Ally
+415,Dento,Ally
+416,Dunma,Ally
+417,Finley,Ally
+418,Fronk,Ally
+419,Gaddison,Ally
+420,Jiahto,Ally
+421,Kayden,Ally
+422,Keye,Ally
+423,King Dorephan,Ally
+424,Kodah,Ally
+425,Laflat,Ally
+426,Laruta,Ally
+427,Marot,Ally
+428,Muzu,Ally
+429,Reagah,Ally
+430,Rivan,Ally
+431,Seggin,Ally
+432,Trello,Ally
+433,Tumbo,Ally
+434,Shai Yota,Ally
+435,Ami,Ally
+437,Izra,Ally
+439,Lawdon,Ally
+440,Quince,Ally
+441,Satty,Ally
+443,Yolero,Ally
+444,Agus,Ally
+445,Celessa,Ally
+446,Garill,Ally
+447,Joute,Ally
+448,Letty,Ally
+449,Toma,Ally
+450,Calip,Ally
+451,Flavi,Ally
+452,Garini,Ally
+455,Mimos,Ally
+456,Muwo Jeem,Ally
+457,Perda,Ally
+458,Tawa Jinn,Ally
+459,Teli,Ally
+460,Wabbin,Ally
+461,Amira,Ally
+462,Aster,Ally
+463,Azu,Ally
+464,Clavia,Ally
+465,Dantz,Ally
+466,Horned Statue,Ally
+467,Ivee,Ally
+468,Karin,Ally
+469,Koyin,Ally
+470,Leop,Ally
+471,Medda,Ally
+473,Nack,Ally
+474,Narah,Ally
+475,Nebb,Ally
+476,Nikki,Ally
+477,Prima,Ally
+478,Pruce,Ally
+479,Purah,Ally
+480,Ralera,Ally
+481,Reede,Ally
+482,Rhodes,Ally
+483,Sayge,Ally
+484,Sefaro,Ally
+485,Seldon,Ally
+486,Senna,Ally
+487,Sophie,Ally
+488,Symin,Ally
+489,Tamana,Ally
+490,Teebo,Ally
+491,Thadd,Ally
+492,Tokk,Ally
+493,Uma,Ally
+494,Worten,Ally
+495,Armes,Ally
+496,Chessica,Ally
+497,Cloyne,Ally
+498,Kiana,Ally
+499,Kinov,Ally
+500,Mubs,Ally
+501,Numar,Ally
+502,Rozel,Ally
+503,Sebasto,Ally
+505,Zuta,Ally
+506,Chaas Qeta,Ally
+507,Korgu Chideh,Ally
+508,Mimo,Ally
+509,Anly,Ally
+510,Brokka,Ally
+511,Bugut,Ally
+512,Cima,Ally
+513,Cotera,Ally
+514,Darton,Ally
+515,Domidak,Ally
+516,Giro,Ally
+519,Hino,Ally
+520,Kampo,Ally
+521,Magda,Ally
+522,Prissen,Ally
+523,Qukah Nata,Ally
+525,Rensa,Ally
+526,Sagessa,Ally
+528,Shay,Ally
+531,Shibo,Ally
+533,Tasseren,Ally
+535,Cado,Ally
+536,Claree,Ally
+537,Cottla,Ally
+538,Dorian,Ally
+539,Impa,Ally
+540,Koko,Ally
+541,Lakna Rokee,Ally
+542,Lasli,Ally
+543,Mellie,Ally
+544,Nanna,Ally
+545,Olkin,Ally
+546,Ollie,Ally
+547,Paya,Ally
+548,Rola,Ally
+549,Steen,Ally
+550,Trissa,Ally
+551,Black Bokoblin,Enemey
+552,Black Lizalfos,Enemey
+553,Black Moblin,Enemey
+554,Blizzrobe,Enemey
+555,Blue Bokoblin,Enemey
+556,Blue Lizalfos,Enemey
+557,Blue Moblin,Enemey
+558,Bokoblin,Enemey
+559,Chuchu,Enemey
+560,Chuchu,Enemey
+561,Chuchu,Enemey
+562,Cursed Bokoblin,Enemey
+563,Cursed Lizalfos,Enemey
+564,Cursed Moblin,Enemey
+565,Decayed Guardian,Enemey
+566,Electric Chuchu,Enemey
+567,Electric Chuchu,Enemey
+568,Electric Chuchu,Enemey
+569,Electric Keese,Enemey
+570,Electric Lizalfos,Enemey
+571,Electric Wizzrobe,Enemey
+572,Fire Chuchu,Enemey
+573,Fire Chuchu,Enemey
+574,Fire Chuchu,Enemey
+575,Fire Keese,Enemey
+576,Fire Wizzrobe,Enemey
+577,Forest Octorok,Enemey
+578,Frost Pebblit,Enemey
+579,Golden Bokoblin,Enemey
+580,Golden Lizalfos,Enemey
+581,Golden Lynel,Enemey
+582,Golden Moblin,Enemey
+583,Guardian Stalker,Enemey
+584,Guardian Scout I,Enemey
+585,Guardian Scout II,Enemey
+586,Guardian Scout III,Enemey
+587,Guardian Scout IV,Enemey
+588,Guardian Skywatcher,Enemey
+589,Guardian Turret,Enemey
+590,Ice Chuchu,Enemey
+591,Ice Chuchu,Enemey
+592,Ice Chuchu,Enemey
+593,Ice Keese,Enemey
+594,Ice Wizzrobe,Enemey
+595,Igneo Pebblit,Enemey
+596,Keese,Enemey
+597,Lizalfos,Enemey
+598,Lynel,Enemey
+599,Meteo Wizzrobe,Enemey
+600,Moblin,Enemey
+601,Rock Octorok,Enemey
+602,Sentry,Enemey
+603,Silver Bokoblin,Enemey
+604,Silver Lizalfos,Enemey
+605,Silver Lynel,Enemey
+606,Silver Moblin,Enemey
+607,Sky Octorok,Enemey
+608,Snow Octorok,Enemey
+609,Stalizalfos,Enemey
+610,Stalkoblin,Enemey
+611,Stalmoblin,Enemey
+612,Stone Pebblit,Enemey
+613,Thunder Wizzrobe,Enemey
+614,Treasure Octorok,Enemey
+615,Water Octorok,Enemey
+616,Yiga Blademaster,Enemey
+617,Yiga Footsoldier,Enemey
+618,Stone Talus,Boss
+619,Igneo Talus,Boss
+620,Frost Talus,Boss
+621,Hinox,Enemey
+622,Hinox,Enemey
+623,Hinox,Enemey
+624,Hinox,Enemey
+625,Blue Hinox,Boss
+626,Black Hinox,Enemey
+627,Stalnox,Boss
+628,Molduga,Boss
+629,Igneo Talus Titan,Boss
+630,Molduking,Boss
+631,Windblight Ganon,Boss
+633,Fireblight Ganon,Boss
+635,Thunderblight Ganon,Boss
+637,Waterblight Ganon,Boss
+639,Master Kohga,Boss
+640,Monk Maz Koshia,Boss
+642,Calamity Ganon,Boss
+643,Dark Beast Ganon,Boss
