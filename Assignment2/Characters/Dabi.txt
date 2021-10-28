@@ -1,0 +1,36 @@
+{{Infobox Character
+|image= File:BotW Dabi Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Dabi||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Dabi|N/A|BotW}}</ref>
+
+==Biography==
+
+
+'''Dabi''' is a character from [[The Legend of Zelda: Breath of the Wild]]. Dabi is a [[Hylian]] who can be found at the [[Tabantha Bridge Stable]] in the [[Hyrule Ridge]] region of [[Hyrule]]
+
+:
+
+{{Term|BotW|Dabi}} is the owner of the {{Term|BotW|Tabantha Bridge Stable|link}}.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Hyruleans
+ |characters= BotW
+}}

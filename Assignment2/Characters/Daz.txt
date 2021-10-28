@@ -1,0 +1,26 @@
+{{Infobox Character
+|image= File:BotW Daz Model.png
+|caption= 
+|title= 
+|race= [[Korok]]
+|gender=
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Daz||Series}} is a character in {{BotW}}.{{Fact}}
+
+==Biography==
+Daz is a [[Korok]] that runs the [[General Shoppe]], located inside the [[Great Deku Tree]] inside [[Korok Forest]] in the [[Great Hyrule Forest]] region of [[Hyrule]].
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Categories
+ |Koroks
+ |characters= BotW
+}}

@@ -1,0 +1,31 @@
+{{Infobox Character
+|image= File:BotW Dento Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Zora|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= [[Marot]] <small>(Granddaughter)</small> <ref>{{Cite|The old man in the workshop, his name is Dento... He's my grandpa!|Marot|BotW}}</ref>
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Dento||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Dento|N/A|BotW}}</ref>
+
+==Biography==
+Dento can be found at his workshop, the [[Hammerhead]], in [[Marot Mart]] in {{Term|BotW|Zora's Domain|link}}. He is the one who repaired [[Mipha]]'s [[Lightscale Trident]]. <ref>{{Cite|He's the one who fixed Mipha's weapon, the {{Color|BotW Blue|Lightscale Trident}}|Marot|BotW}}</ref>
+
+Like all elder Zora, Dento is initially hostile and untrusting towards {{Term|BotW|Link|link}} due to the loss of Mipha. After [[Divine Beast Vah Ruta]] is calmed and Link receives the Lightscale Trident, Dento will offer to repair it should it ever break, in exchange for a [[Zora Spear]], a [[Diamond]], and five pieces of [[Flint]].<ref>{{Cite|The {{Color|BotW Blue|Lightscale Trident}}... I somehow felt it had disappeared from this world. Shall I remake it for you?|Dento|BotW}}</ref><ref>{{Cite|In that case, I will need a {{Color|BotW Blue|Zora Spear}}, {{Color|BotW Red|one}} {{Color|BotW Blue|diamond}}, and {{Color|BotW Red|five pieces}} of {{Color|BotW Blue|flint}}.|Dento|BotW}}</ref> He can also provide Link with a new [[Ceremonial Trident]] as well, in exchange for a Zora Spear and five pieces of Flint.<ref>{{Cite|The {{Color|BotW Blue|ceremonial trident}}... I somehow felt it had disappeared from this world. Shall I remake it for you?|Dento|BotW}}</ref><ref>{{Cite|In that case, I will need a {{Color|BotW Blue|Zora spear}} and {{Color|BotW Red|five pieces}} of {{Color|BotW Blue|flint}}...|Dento|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Zora
+ |characters= BotW
+}}

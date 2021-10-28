@@ -1,0 +1,34 @@
+{{Infobox Character
+|image= File:BotW Gaddison Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Zora|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Gaddison||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Gaddison|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+Gaddison is a guard for {{Term|BotW|Zora's Domain|link}} who can be found guarding the eastern bridge, wielding a [[Zora Spear]]. When first approached by Link, she will recognize him, claiming they played together 100 years ago.<ref>{{Cite|We...used to play together all the time. That was 100 years ago. My name is Gaddison.|Gaddison|BotW}}</ref> She refrains from asking him too many questions since she's on duty.<ref>{{Cite|I must maintain my surveillance of the {{Color|BotW Blue|East Reservoir Lake}}. We can chat later.|Gaddison|BotW}}</ref>
+
+In her youth, Gaddison was part of the Big Bad Bazz Brigade with {{Term|BotW|Bazz|link}} and {{Term|BotW|Rivan|link}}.<ref>{{Cite|The leader of the pack, Bazz... The heroine, Gaddison...|Rivan|BotW}}</ref>
+
+As part of the "[[From the Ground Up]]" [[Side Quest]], Gaddison can be asked to move to [[Tarrey Town]] due to her name ending in "-son". However, she will refuse Link's request.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Zora
+ |characters= BotW
+}}

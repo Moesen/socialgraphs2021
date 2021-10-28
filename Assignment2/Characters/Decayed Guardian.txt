@@ -1,0 +1,52 @@
+{{Infobox Enemy
+|image= File:BotW Decayed Guardian Model.png
+|caption= 
+|race= 
+|game= {{BotW}}
+|other= 
+|habitat= [[Forgotten Temple]]<br>[[Great Plateau]]<br>[[Trial of the Sword]]<br>[[Hyrule Field]]<br>[[Hyrule Castle (Breath of the Wild)|Hyrule Castle]]
+|member= 
+|health= 500
+|attack= Shooting lasers
+|weapon= [[Shield]]<br>Guardian and Ancient Weapons<br>[[Master Sword]]
+|spoils= [[Ancient Screw]]<br>[[Ancient Spring]]<br>[[Ancient Gear]]<br>[[Ancient Shaft]]
+|exp= 
+|theme= 
+}}
+{{Term/Store|Decayed Guardian|Decayed Guardians|Series, BotW|plural}} are enemies in {{BotW}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Decayed Guardian}}'''|Hyrule Compendium|BotW}}</ref>
+
+==Characteristics==
+{{Compendium/Extract|Decayed Guardian}}
+Decayed Guardians are decayed variations of the [[Guardian Stalker]]s that have long lost their mobility. They are found buried in the ground, unable to move due to having no legs. Decayed Guardians appear inactive until {{Term|BotW|Link|link}} approaches it, when they light up and aim their laser sights at Link in preparation to fire.<ref>{{Cite|Approach with caution; some of these derelict models have been known to awaken from stasis and attack when approached.|Hyrule Compendium|BotW}}</ref> A massive amount of Decayed Guardians can be found in the [[Forgotten Temple]] and will simultaneously take aim at Link the moment he enters the temple. They are prone to malfunctioning after being attacked, firing off several lasers in rapid succession.
+
+If Link performs a [[Perfect Guard]] with any [[Shields in Breath of the Wild|Shield]] on its laser, it is instantly defeated. If {{Term|BotW|Link}} hits a Decayed Guardian in its eye using a bow, it will temporarily stun it. Using [[Stasis|Stasis +]] on a charging up Decayed Guardian will stun them afterwards, even if not hit during stasis.
+
+In [[Master Mode]], Decayed Guardians will sometimes take slightly longer in their charge up phase before firing their laser to throw off Link's timing.
+
+===Drops===
+A Decayed Guardian drops between 4 and 6 of:
+{{BotWDropTable | Ancient Screw | 40 | Ancient Spring | 25 | Ancient Gear | 20 | Ancient Shaft | 15 }}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Eastern Abbey Guardian.png|A Decayed Guardian attacking Link
+File:BotW Perfect Guard Projectile.png|Link performing a Perfect Guard on a Decayed Guardian's laser
+</gallery>
+
+==See Also==
+* [[Guardian (Breath of the Wild)|Guardian]]
+* [[Guardian Stalker]]
+* [[Guardian Scout]]
+* [[Guardian Turret]]
+* [[Guardian Skywatcher]]
+* [[Sentry]]
+
+{{Ref}}
+
+{{Categories
+ |Ancient Technology, Guardians
+ |enemies= BotW
+}}

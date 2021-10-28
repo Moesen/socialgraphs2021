@@ -1,0 +1,36 @@
+{{Infobox Character
+|image= File:BotW Anly Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Anly||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Anly|N/A|BotW}}</ref>
+
+==Biography==
+Anly is the owner of the [[Lakeside Stable]] in [[West Necluda]]. When spoken to at the front of the stable, he'll welcome {{Term|BotW|Link|link}} and ask if he wants to register or take out a horse.<ref>{{Cite|Welcome! Welcome to our fine {{Color|BotW Blue|stable}}! Do you want to register a horse? Take one out for a ride?|Anly|BotW}}</ref> If Link asks to register a horse without one present, Anly will call him a comedian, saying to "quit horsing around" and to find a horse.<ref>{{Cite|Oh... I see we have a comedian in our midst. Quit horsing around, and get around to finding a horse!|Anly|BotW}}</ref> He'll also give Link instructions on how to tame a wild horse.<ref>{{Cite|To catch a wild horse, slowly approach it from behind and hop on—got it?|Anly|BotW}}</ref> Inside the stable, he will once again welcome Link and ask if he'll be staying with them.<ref>{{Cite|Welcome!<br>Will you be staying with us?|Anly|BotW}}</ref>
+
+==Nomenclature==
+{{Nomenclature|Anly}}
+
+==See Also==
+* [[Lakeside Stable]]
+* [[Shay]]
+* [[Cima]]
+* [[Kampo]]
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

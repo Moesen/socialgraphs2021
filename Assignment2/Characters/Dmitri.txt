@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Dmitri Model.png
+|caption= 
+|title= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= 
+|family= {{Term|BotW|Kaifa|link}} {{Small|(eldest daughter)}}<br>{{Term|BotW|Jana|link}} {{Small|(middle daughter)}}<br>{{Term|BotW|Gleema|link}} {{Small|(youngest daughter)}}
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Dmitri||Series}} is a character in {{BotW}}.<ref>{{Cite|Dmitri|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+{{Term|BotW|Dmitri}} is the owner of {{Term|BotW|South Akkala Stable|link}}.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}

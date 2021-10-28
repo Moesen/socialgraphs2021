@@ -1,0 +1,30 @@
+{{Infobox Character
+|image= File:BotW Gesane Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Rito|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Gesane||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Gesane|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+Gesane is a guard at the lowest entrance of [[Rito Village]].  Speak to him to start the [[Face the Frost Talus]] side quest.    You *might* need to have defeated Vah Rohta first in order to get the side quest dialog.
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+{{Categories
+ |Hyruleans, Rito, Rito Villagers
+ |characters= BotW
+}}

@@ -1,0 +1,30 @@
+{{Infobox Character
+|image= File:BotW Dantz Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Dantz||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Dantz|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Hateno Villagers, Hylians, Hyruleans
+ |characters= BotW
+}}

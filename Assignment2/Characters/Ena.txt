@@ -1,0 +1,27 @@
+{{Infobox Character
+|image= File:BotW Ena Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= 
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Ena||Series}} is a character in {{BotW}}.{{Fact}}
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Categories
+ |characters= BotW
+}}

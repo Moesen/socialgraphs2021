@@ -1,0 +1,50 @@
+{{Infobox Character
+|image= File:BotW Cherry Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= 
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+The {{Term/Store|Ancient Oven||Series, BotW}},<ref name="Ancient Oven">{{Cite|Hm? Hmmmmmm?! {{Big|Don't TELL me...you're Link?!}}|Robbie|BotW}}<br>{{Cite|[That's right!] {{Big|Whoa!}} Today is eventful, hm? Yes, downright crazy! To think I'd get to see Link 100 years after he went to sleep. On top of that, {{Color|BotW Blue|Cherry}}...I mean, my {{Color|BotW Blue|ancient oven}}...is finally up and running again!|Robbie|BotW}}<br>{{Cite|[The furnace is lit.] Thank you, hm! Heh, though at first I truly believed she started working again by the power of my love...|Robbie|BotW}}<br>{{Cite|[Who are you?] Hm? Me? {{Big|Are you serious?!}} It seems I got so excited I forgot to introduce myself! I'll start over, hm? I am the lead {{Color|BotW Blue|Guardian}} researcher and director of the {{Color|BotW Blue|Akkala Ancient Tech Lab}}. Doctooooor...{{Big|Robbie!}}|Robbie|BotW}}</ref> also known as '''Cherry''',<ref name="Ancient Oven"/> is a character in {{BotW}}.
+
+==Biography==
+The {{Term|BotW|Ancient Oven}} is a reworked {{Term|BotW|Guidance Stone|link}} who can be found in the {{Term|BotW|Akkala Ancient Tech Lab|link}}. {{Term|BotW|Ancient Oven|display=Cherry}}'s namesake is that of {{Term|BotW|Robbie}}'s first love; it is now referred to as {{Term|BotW|Ancient Oven}}, for calling it {{Term|BotW|Ancient Oven|display=Cherry}} upsets its co-creator, and {{Term|BotW|Robbie}}'s wife, {{Term|BotW|Jerrin|link}}. When provided with {{Term|BotW|Guardian|link}} remains and {{Plural|BotW|Rupee|link}}, the {{Term|BotW|Ancient Oven}} dispenses to {{Term|BotW|Link|link}} {{Term|BotW|Ancient Soldier Gear|link}} and the {{Term|BotW|Ancient Set|link}}. The {{Term|BotW|Ancient Oven}} appears not to recognize {{Term|BotW|Link}}, referring to him as "FamiliarNameMissing" instead.<ref>{{Cite|Hello, *zzzt*, FamiliarNameMissing! Welcome!|Ancient Oven|BotW}}</ref>
+
+===Wares and Pricing===
+{{ShopItem/h}}
+{{ShopItem|BotW|Ancient Arrow|90|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Arrow|250|quantity=3|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Arrow|400|quantity=5|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Short Sword|1000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Shield|1000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Bladesaw|1000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Spear|1000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Bow|1000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Helm|2000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Cuirass|2000|typeimg=Icon}}
+{{ShopItem|BotW|Ancient Greaves|2000|typeimg=Icon}}
+|}
+
+==Nomenclature==
+{{Nomenclature}}
+
+==Gallery==
+<gallery>
+File:BotW Ancient Oven Concept Art.png|Concept art of the {{Term|BotW|Ancient Oven}}
+</gallery>
+
+{{Ref}}
+
+{{Categories
+ |Ancient Technology, Hyruleans
+ |characters= BotW
+}}

@@ -1,0 +1,26 @@
+{{Infobox Character
+|image= File:BotW Damia Model.png
+|caption= 
+|title= 
+|race= [[Korok]]
+|gender= 
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Damia||Series}} is a character in {{BotW}}.{{Name Ref|BotW}}
+
+==Biography==
+Damia is a [[Korok]] that lives in the [[Korok Forest]].  After [[Link]] starts "[[The Korok Trials]]" [[Side Quest]], he can meet with Damia by following the eastern path out of the forest.  Link can speak with Damia to attempt "[[The Test of Wood]]" [[Shrine Quest]].
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Categories
+ |Koroks
+ |characters= BotW
+}}

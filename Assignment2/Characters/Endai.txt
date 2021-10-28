@@ -1,0 +1,29 @@
+{{Infobox Character
+|image= File:BotW Endai Model.png
+|caption= 
+|pronunciation= 
+|title= 
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Male
+|game= {{BotW}}
+|other= 
+|era= 
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Endai||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Endai|N/A|BotW}}</ref>
+
+==Biography==
+'''Endai''' is a male [[Hylian]] traveler with black hair and blue eyes who can be found riding his [[Horse]] across [[Hyrule]].
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |characters= BotW
+}}

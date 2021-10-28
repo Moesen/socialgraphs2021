@@ -1,0 +1,30 @@
+{{Infobox Character
+|image= File:BotW Falmark Model.png
+|caption= 
+|pronunciation= 
+|title= Shield Surfer{{Fact}}
+|alias= 
+|race= {{Term|BotW|Hylian|link}}
+|gender= Male{{Fact|BotW}}
+|game= {{BotW}}
+|other= 
+|era= {{Term|BotW|Era of the Wilds|link}}
+|family= 
+|voiceactor= 
+|theme= 
+|counter= 
+}}
+{{Term/Store|Falmark||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Falmark|N/A|BotW}}</ref>
+
+==Biography==
+{{Stub|BotW}}
+
+==Nomenclature==
+{{Nomenclature}}
+
+{{Ref}}
+
+{{Categories
+ |Hylians, Hyruleans
+ |characters= BotW
+}}
